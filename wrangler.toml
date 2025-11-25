@@ -11,7 +11,7 @@ name = "subscription-manager-staging"
 
 # KV 命名空间配置
 [[kv_namespaces]]
-binding = "KV"
+binding = "SUBSCRIPTIONS_KV"
 preview_id = "6c01c25589a040adac7b13395581b91c"
 id = "6c01c25589a040adac7b13395581b91c"
 
